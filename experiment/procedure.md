@@ -8,6 +8,24 @@ Follow these steps to determine the constituents and amount of alkalinity in the
 5. To the same solution (solution of step 4) add 2-3 drops of methyl orange indicator and shake well before titration. Now titrate this solution against the ….N H2SO4 and the titration is continued until the color of the solution becomes orange (Fig. 1). The burette reading at this point is noted as final reading for M-alkalinity.
 6. The titration is repeated for concordant value.
 
+#### **Slide-1 Procedure**
+1. Add few drops of phenolphthalein into sample water.
+2. The colour changes to pink.
+
+#### **Slide-2 Procedure**
+1. Set the normality of titrate(Sulphuric Acid) and volume of titrant(Sample water solution) according to you, click start button.
+2. Fix the nozzle opening size by nozzle open slider.Shake the flask while Titrating.
+3. Titrate the solution till it turn to transparent.
+
+#### **Slide-3 Procedure**
+1. Add few drops of Methyl Orange into sample water.
+2. The colour changes to yellow.
+
+#### **Slide-4 Procedure**
+1. Click start button.
+2. Fix the nozzle opening size by nozzle open slider.Shake the flask while Titrating.
+3. Titrate the solution till it turn to orange-red.
+
 #### **Safety Precautions**
 
 1. Clamp the burette perfectly in the vertically, so that it is easy to read the scale properly.
